@@ -54,7 +54,7 @@ Make sure you have the following installed before running the project:
 Run the bot using the following command:
 
 ```bash
-python main.py
+python valorant.py
 ```
 
 
