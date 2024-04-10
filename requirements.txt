@@ -1,0 +1,7 @@
+swibots
+requests
+requests-cache
+beautifulsoup4
+youtube-search-python
+yt-dlp
+python-decouple
